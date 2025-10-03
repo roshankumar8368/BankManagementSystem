@@ -16,5 +16,6 @@ Compile and run `BankManagementSystem.java` in any Java IDE or terminal.
 ## 📸 Sample Output
 ![Sample Output](screenshots/output%20one/output1.png)
 
+
 ## Author
 Roshan — BCA student 
