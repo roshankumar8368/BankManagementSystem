@@ -14,7 +14,7 @@ A console-based banking system with Savings and Current account logic, interest 
 ## How to Run
 Compile and run `BankManagementSystem.java` in any Java IDE or terminal.
 ## 📸 Sample Output
-![Sample Output](screenshots/output1.png)
+![Sample Output](screenshots/output%20one/output1.png)
 
 ## Author
 Roshan — BCA student 
